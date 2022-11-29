@@ -22,8 +22,14 @@ a
    font-style: italic;
 }
 
-a:hover /* Apparence au survol des liens */
+a:hover
 {
    text-decoration: underline;
    color: blue;
+}
+
+
+.liens
+{
+    text-align: center;
 }
