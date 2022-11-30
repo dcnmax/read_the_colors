@@ -1,7 +1,33 @@
+/* Header */
+header
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+header #title h1
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Body */
 body
 {
     background-color: black;
     color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+#main_wrapper
+{
+    width: 900px;
+    margin: auto;
 }
 
 h1, h2
@@ -28,8 +54,33 @@ a:hover
    color: blue;
 }
 
-
-.liens
+/* footer */
+.links
 {
     text-align: center;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
 }
