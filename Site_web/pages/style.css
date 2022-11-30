@@ -3,13 +3,13 @@ header
 {
     background-color: black;
     color: white;
-    display: flex;
     justify-content: space-between;
     align-items: flex-end;
 }
 
-#title h1
+header h1
 {
+    font-size: 2.5em;
     font-weight: bold;
     text-align: center;
 }
@@ -20,14 +20,6 @@ body
     background-color: black;
     color: white;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-}
-
-#main_wrapper
-{
-    width: 900px;
-    margin: auto;
 }
 
 h1, h2
@@ -54,7 +46,32 @@ a:hover
    color: blue;
 }
 
+section
+{
+    margin-bottom: 20px;
+}
+
+article
+{
+    margin: auto;
+}
+
+aside
+{
+    position: relative;
+    background-color: black;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    color: white;
+    font-size: 0.9em;
+}
+
 /* footer */
+footer
+{
+    border-width: 5px;
+}
+
 .links
 {
     text-align: center;
