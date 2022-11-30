@@ -64,7 +64,7 @@ article
     flex: 3;
     width: 14vw;
     background-color: black;
-    box-shadow: 0px 2px 5px #1c1a19;
+    box-shadow: 0px 5px 10px #76767a;
     border-radius: 5px;
     color: white;
     position: fixed;
@@ -84,9 +84,13 @@ nav a:hover
 }
 
 /* footer */
-footer
+#footer
 {
-    border-width: 5px;
+    background-color: black;
+    box-shadow: 0px 0px 10px #76767a;
+    border-radius: 5px;
+    color: white;
+    position: relative;
 }
 
 .links
