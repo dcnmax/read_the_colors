@@ -48,22 +48,29 @@ a:hover
 
 section
 {
+    display: flex;
     margin-bottom: 20px;
 }
 
 article
 {
+    width: 100vw;
     margin: auto;
 }
 
-aside
+#sidebar
 {
-    position: relative;
+    flex: 3;
+    width: 14vw;
+    position: sticky;
     background-color: black;
     box-shadow: 0px 2px 5px #1c1a19;
     border-radius: 5px;
     color: white;
-    font-size: 0.9em;
+    position:fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
 }
 
 /* footer */
