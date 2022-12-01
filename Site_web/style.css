@@ -71,6 +71,36 @@ article
     margin-left: 210px;
 }
 
+#learn
+{
+    width: 100px;
+    height: 20px;
+    padding: 20px;
+    background-color: black;
+    box-shadow: 0px 0px 10px rgb(106, 106, 109);
+    border-radius: 5px;
+    color: white;
+    position: fixed;
+    left: 830px;
+    top: 400px;
+    bottom: 400px;
+}
+
+#write
+{
+    width: 100px;
+    height: 20px;
+    padding: 20px;
+    background-color: black;
+    box-shadow: 0px 0px 10px rgb(106, 106, 109);
+    border-radius: 5px;
+    color: white;
+    position: fixed;
+    left: 400px;
+    top: 400px;
+    bottom: 400px;
+}
+
 /* sidebar */
 #sidebar
 {
