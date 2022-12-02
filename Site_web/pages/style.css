@@ -113,17 +113,17 @@ article
     height: 100%;
     width: 100%;
     background: yellowgreen;
-    line-height: 20px;
-    color: white;
-    text-align: center;
-    font-size: 15px;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back1 {
-    background: white;
-    color: yellowgreen;
+    background: yellowgreen;
+    line-height: 20px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
     transform: rotateY( 180deg );
   }
 
@@ -158,17 +158,17 @@ article
     height: 100%;
     width: 100%;
     background: violet;
-    line-height: 20px;
-    color: white;
-    text-align: center;
-    font-size: 15px;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back2 {
-    background: white;
-    color: violet;
+    background: violet;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
     transform: rotateY( 180deg );
   }
 
@@ -203,17 +203,17 @@ article
     height: 100%;
     width: 100%;
     background: blue;
-    line-height: 20px;
-    color: white;
-    text-align: center;
-    font-size: 15px;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back3 {
-    background: white;
-    color: blue;
+    background: blue;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
     transform: rotateY( 180deg );
   }
 
@@ -248,17 +248,17 @@ article
     height: 100%;
     width: 100%;
     background: green;
-    line-height: 20px;
-    color: white;
-    text-align: center;
-    font-size: 15px;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back4 {
-    background: white;
-    color: green;
+    background: green;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
     transform: rotateY( 180deg );
   }
 
@@ -293,17 +293,107 @@ article
     height: 100%;
     width: 100%;
     background: fuchsia;
-    line-height: 20px;
-    color: white;
-    text-align: center;
-    font-size: 15px;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back5 {
-    background: white;
-    color: fuchsia;
+    background: fuchsia;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content6 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card6:hover .content6 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front6, .back6 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: orangered;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back6 {
+    background: orangered;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card7 {
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content7 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card7:hover .content7 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front7, .back7 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: lightcyan;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back7 {
+    background: lightcyan;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
     transform: rotateY( 180deg );
   }
 
