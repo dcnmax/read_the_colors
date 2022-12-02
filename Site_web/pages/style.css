@@ -355,9 +355,9 @@ article
   .card7 {
     position: absolute;
     top: 50%;
-    left: 52%;
-    width: 20px;
-    height: 20px;
+    left: 53%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -389,10 +389,10 @@ article
   
   .back7 {
     background: lightcyan;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -400,9 +400,9 @@ article
   .card8 {
     position: absolute;
     top: 50%;
-    left: 54%;
-    width: 20px;
-    height: 20px;
+    left: 56%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -434,10 +434,10 @@ article
   
   .back8 {
     background: maroon;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -445,9 +445,9 @@ article
   .card9 {
     position: absolute;
     top: 50%;
-    left: 56%;
-    width: 20px;
-    height: 20px;
+    left: 59%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -479,10 +479,10 @@ article
   
   .back9 {
     background: rebeccapurple;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -490,9 +490,9 @@ article
   .card10 {
     position: absolute;
     top: 50%;
-    left: 58%;
-    width: 20px;
-    height: 20px;
+    left: 62%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -524,10 +524,10 @@ article
   
   .back10 {
     background: gold;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -535,9 +535,9 @@ article
   .card11 {
     position: absolute;
     top: 50%;
-    left: 60%;
-    width: 20px;
-    height: 20px;
+    left: 65%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -569,10 +569,10 @@ article
   
   .back11 {
     background: salmon;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -580,9 +580,9 @@ article
   .card12 {
     position: absolute;
     top: 50%;
-    left: 62%;
-    width: 20px;
-    height: 20px;
+    left: 68%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -614,10 +614,10 @@ article
   
   .back12 {
     background: rebeccapurple;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -625,9 +625,9 @@ article
   .card13 {
     position: absolute;
     top: 50%;
-    left: 64%;
-    width: 20px;
-    height: 20px;
+    left: 71%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -659,10 +659,10 @@ article
   
   .back13 {
     background: rgb(44, 16, 72);
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -670,9 +670,9 @@ article
   .card14 {
     position: absolute;
     top: 50%;
-    left: 66%;
-    width: 20px;
-    height: 20px;
+    left: 74%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -704,10 +704,100 @@ article
   
   .back14 {
     background: navy;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card15 {
+    position: absolute;
+    top: 50%;
+    left: 77%;
+    width: 30px;
+    height: 30px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content15 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card15:hover .content15 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front15, .back15 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: navy;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back15 {
+    background: navy;
+    line-height: 30px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card16 {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    width: 30px;
+    height: 30px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content16 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card16:hover .content16 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front16, .back16 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: brown;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back16 {
+    background: brown;
+    line-height: 30px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
