@@ -85,9 +85,9 @@ article
 .card1 {
     position: absolute;
     top: 50%;
-    left: 40%;
-    width: 20px;
-    height: 20px;
+    left: 35%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -119,20 +119,20 @@ article
   
   .back1 {
     background: yellowgreen;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     font-weight: bold;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     transform: rotateY( 180deg );
   }
 
   .card2 {
     position: absolute;
     top: 50%;
-    left: 42%;
-    width: 20px;
-    height: 20px;
+    left: 38%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -164,10 +164,10 @@ article
   
   .back2 {
     background: violet;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -175,9 +175,9 @@ article
   .card3 {
     position: absolute;
     top: 50%;
-    left: 44%;
-    width: 20px;
-    height: 20px;
+    left: 41%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -209,10 +209,10 @@ article
   
   .back3 {
     background: blue;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -220,9 +220,9 @@ article
   .card4 {
     position: absolute;
     top: 50%;
-    left: 46%;
-    width: 20px;
-    height: 20px;
+    left: 44%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -254,10 +254,10 @@ article
   
   .back4 {
     background: green;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -265,9 +265,9 @@ article
   .card5 {
     position: absolute;
     top: 50%;
-    left: 48%;
-    width: 20px;
-    height: 20px;
+    left: 47%;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -299,10 +299,10 @@ article
   
   .back5 {
     background: fuchsia;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
@@ -311,8 +311,8 @@ article
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     margin: -150px;
     float: left;
     perspective: 500px;
@@ -344,10 +344,10 @@ article
   
   .back6 {
     background: orangered;
-    line-height: 20px;
+    line-height: 30px;
     color: black;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
     transform: rotateY( 180deg );
   }
