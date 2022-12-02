@@ -487,6 +487,186 @@ article
     transform: rotateY( 180deg );
   }
 
+  .card10 {
+    position: absolute;
+    top: 50%;
+    left: 58%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content10 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card10:hover .content10 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front10, .back10 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: gold;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back10 {
+    background: gold;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card11 {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content11 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card11:hover .content11 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front11, .back11 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: salmon;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back11 {
+    background: salmon;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card12 {
+    position: absolute;
+    top: 50%;
+    left: 62%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content12 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card12:hover .content12 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front12, .back12 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rebeccapurple;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back12 {
+    background: rebeccapurple;
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
+  .card13 {
+    position: absolute;
+    top: 50%;
+    left: 64%;
+    width: 20px;
+    height: 20px;
+    margin: -150px;
+    float: left;
+    perspective: 500px;
+  }
+  
+  .content13 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card13:hover .content13 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  
+  .front13, .back13 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgb(44, 16, 72);
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  
+  .back13 {
+    background: rgb(44, 16, 72);
+    line-height: 20px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    transform: rotateY( 180deg );
+  }
+
 /* sidebar */
 #sidebar
 {
