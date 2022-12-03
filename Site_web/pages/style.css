@@ -157,13 +157,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: violet;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back2 {
-    background: violet;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -382,13 +382,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: lightcyan;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back7 {
-    background: lightcyan;
+    background: red;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -427,13 +427,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: maroon;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back8 {
-    background: maroon;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -472,13 +472,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: green;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back9 {
-    background: rebeccapurple;
+    background: green;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -562,13 +562,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: salmon;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back11 {
-    background: salmon;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -607,13 +607,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back12 {
-    background: rebeccapurple;
+    background: red;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -697,13 +697,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: blue;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back14 {
-    background: navy;
+    background: blue;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -742,13 +742,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back15 {
-    background: navy;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -787,13 +787,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: brown;
+    background: yellowgreen;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back16 {
-    background: brown;
+    background: yellowgreen;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -832,13 +832,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: yellowgreen;
+    background: brown;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back17 {
-    background: yellowgreen;
+    background: brown;
     line-height: 30px;
     color: black;
     font-weight: bold;
@@ -877,13 +877,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: violet;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back18 {
-    background: violet;
+    background: red;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -922,13 +922,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: blue;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back19 {
-    background: blue;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -967,13 +967,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: green;
+    background: blue;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back20 {
-    background: green;
+    background: blue;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1012,13 +1012,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: fuchsia;
+    background: maroon;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back21 {
-    background: fuchsia;
+    background: maroon;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1057,13 +1057,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: orangered;
+    background: rgb(39, 121, 73);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back22 {
-    background: orangered;
+    background: rgb(39, 121, 73);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1102,13 +1102,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: lightcyan;
+    background: rgb(32, 183, 183);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back23 {
-    background: lightcyan;
+    background: rgb(32, 183, 183);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1192,13 +1192,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: brown;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back25 {
-    background: rebeccapurple;
+    background: brown;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1237,13 +1237,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: gold;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back26 {
-    background: gold;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1282,13 +1282,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: salmon;
+    background: rgb(44, 16, 72);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back27 {
-    background: salmon;
+    background: rgb(44, 16, 72);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1417,13 +1417,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: fuchsia;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back30 {
-    background: navy;
+    background: fuchsia;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1507,13 +1507,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: brown;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back32 {
-    background: brown;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1552,13 +1552,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: yellowgreen;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back33 {
-    background: yellowgreen;
+    background: red;
     line-height: 30px;
     color: black;
     font-weight: bold;
@@ -1597,13 +1597,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: violet;
+    background: rgb(44, 16, 72);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back34 {
-    background: violet;
+    background: rgb(44, 16, 72);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1687,13 +1687,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: green;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back36 {
-    background: green;
+    background: red;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1777,13 +1777,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: orangered;
+    background: green;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back38 {
-    background: orangered;
+    background: green;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1822,13 +1822,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: lightcyan;
+    background: rgb(85, 80, 35);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back39 {
-    background: lightcyan;
+    background: rgb(85, 80, 35);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1867,13 +1867,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: maroon;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back40 {
-    background: maroon;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1912,13 +1912,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: yellowgreen;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back41 {
-    background: rebeccapurple;
+    background: yellowgreen;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -1957,13 +1957,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: gold;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back42 {
-    background: gold;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2002,13 +2002,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: salmon;
+    background: blue;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back43 {
-    background: salmon;
+    background: blue;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2047,13 +2047,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: green;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back44 {
-    background: rebeccapurple;
+    background: green;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2092,13 +2092,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rgb(44, 16, 72);
+    background: fuchsia;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back45 {
-    background: rgb(44, 16, 72);
+    background: fuchsia;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2137,13 +2137,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: orangered;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back46 {
-    background: navy;
+    background: orangered;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2182,13 +2182,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: red;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back47 {
-    background: navy;
+    background: red;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2227,13 +2227,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: brown;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back48 {
-    background: brown;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2272,13 +2272,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: yellowgreen;
+    background: green;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back49 {
-    background: yellowgreen;
+    background: green;
     line-height: 30px;
     color: black;
     font-weight: bold;
@@ -2317,13 +2317,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: violet;
+    background: gold;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back50 {
-    background: violet;
+    background: gold;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2407,13 +2407,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: green;
+    background: yellow;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back52 {
-    background: green;
+    background: yellow;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2443,7 +2443,7 @@ article
     transform-style: preserve-3d;
   }
   
-  .card53:hover .content21 {
+  .card53:hover .content53 {
     transform: rotateY( 180deg ) ;
     transition: transform 0.5s;
   }
@@ -2452,13 +2452,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: fuchsia;
+    background: rgb(39, 121, 73);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back53 {
-    background: fuchsia;
+    background: rgb(39, 121, 73);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2497,13 +2497,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: orangered;
+    background: fuchsia;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back54 {
-    background: orangered;
+    background: fuchsia;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2542,13 +2542,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: lightcyan;
+    background: lightcoral;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back55 {
-    background: lightcyan;
+    background: lightcoral;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2587,13 +2587,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: maroon;
+    background: rebeccapurple;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back56 {
-    background: maroon;
+    background: rebeccapurple;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2677,13 +2677,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: gold;
+    background: orangered;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back58 {
-    background: gold;
+    background: orangered;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2722,13 +2722,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: salmon;
+    background: rgb(44, 16, 72);
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back59 {
-    background: salmon;
+    background: rgb(44, 16, 72);
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2767,13 +2767,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rebeccapurple;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back60 {
-    background: rebeccapurple;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2812,13 +2812,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: rgb(44, 16, 72);
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back61 {
-    background: rgb(44, 16, 72);
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2857,13 +2857,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back62 {
-    background: navy;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2902,13 +2902,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: navy;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back63 {
-    background: navy;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
@@ -2947,13 +2947,13 @@ article
     position: absolute;
     height: 100%;
     width: 100%;
-    background: brown;
+    background: white;
     border-radius: 5px;
     backface-visibility: hidden;
   }
   
   .back64 {
-    background: brown;
+    background: white;
     line-height: 30px;
     color: black;
     text-align: center;
