@@ -77,7 +77,6 @@ article
     height: 20px;
     padding: 20px;
     background-color: black;
-    box-shadow: 0px 0px 10px rgb(106, 106, 109);
     border-radius: 5px;
     color: white;
     position: fixed;
@@ -92,7 +91,6 @@ article
     height: 20px;
     padding: 20px;
     background-color: black;
-    box-shadow: 0px 0px 10px rgb(106, 106, 109);
     border-radius: 5px;
     color: white;
     position: fixed;
@@ -100,6 +98,56 @@ article
     top: 400px;
     bottom: 400px;
 }
+
+button {
+    --border-width: 2px;
+    --border-radius: 22px;
+    --color-1: #f19f39;
+    --color-2: #de222c;
+  }
+  
+  button {
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #ddd;
+    width: 120px;
+    position: relative;
+    background: linear-gradient(to right, orange, red),
+      linear-gradient(to right, orange, red);
+    background-position: var(--border-radius) 0, var(--border-radius) 100%;
+    background-repeat: no-repeat;
+    background-size: calc(100% - var(--border-radius) - var(--border-radius))
+      var(--border-width);
+    padding: 14px 24px;
+    border-radius: var(--border-radius);
+    border: none;
+  }
+  
+  button:before,
+  button:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: var(--border-radius);
+    top: 0;
+    bottom: 0;
+  }
+  
+  button:before {
+    left: 0;
+    border: var(--border-width) solid var(--color-1);
+    border-top-left-radius: var(--border-radius);
+    border-bottom-left-radius: var(--border-radius);
+    border-right-color: transparent;
+  }
+  
+  button:after {
+    right: 0;
+    border: var(--border-width) solid var(--color-2);
+    border-top-right-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+    border-left-color: transparent;
+  }
 
 /* sidebar */
 #sidebar

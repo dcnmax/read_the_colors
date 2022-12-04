@@ -72,7 +72,7 @@ section
 
 article
 {
-    width: 70vw;
+    width: 83vw;
     margin-left: 210px;
 }
 
@@ -80,72 +80,6 @@ article
 {
     background-color: gray;
 
-}
-
-button {
-  --border-width: 2px;
-  --border-radius: 22px;
-  --color-1: #f19f39;
-  --color-2: #de222c;
-}
-
-button {
-  font-weight: bold;
-  letter-spacing: 1px;
-  text-align: center;
-  color: #ddd;
-  width: 190px;
-  position: relative;
-  background: linear-gradient(to right, orange, red),
-    linear-gradient(to right, orange, red);
-  background-position: var(--border-radius) 0, var(--border-radius) 100%;
-  background-repeat: no-repeat;
-  background-size: calc(100% - var(--border-radius) - var(--border-radius))
-    var(--border-width);
-  padding: 14px 24px;
-  border-radius: var(--border-radius);
-  border: none;
-}
-
-button:before,
-button:after {
-  content: "";
-  display: block;
-  position: absolute;
-  width: var(--border-radius);
-  top: 0;
-  bottom: 0;
-}
-
-button:before {
-  left: 0;
-  border: var(--border-width) solid var(--color-1);
-  border-top-left-radius: var(--border-radius);
-  border-bottom-left-radius: var(--border-radius);
-  border-right-color: transparent;
-}
-
-button:after {
-  right: 0;
-  border: var(--border-width) solid var(--color-2);
-  border-top-right-radius: var(--border-radius);
-  border-bottom-right-radius: var(--border-radius);
-  border-left-color: transparent;
-}
-
-.coolors-palette-widget {
-  all: initial;
-  border-radius: 14px !important;
-  overflow: hidden;
-  height: 90px !important;
-  margin: 18pt !important;
-  width: 80% !important;
-  background-color: #2c313e !important;
-  border-bottom: 2px solid #888;
-}
-
-.coolors-palette-widget .coolors-palette-widget_colors {
-  height: 140px !important;
 }
 
 .card1 {
@@ -3040,19 +2974,6 @@ button:after {
     left: 0;
     top: 0;
     bottom: 0;
-}
-
-#sidebar2
-{
-  position: relative;
-  flex: 3;
-  width: 14vw;
-  border-radius: 5px;
-  color: white;
-  position: fixed;
-  right: 20px;
-  top: 100px;
-  bottom: 0;
 }
 
 nav a
